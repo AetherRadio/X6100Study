@@ -35,7 +35,7 @@ These two systems use a set of commands to communicate.
   are used in the frontend firmware.
 - [ ] Add the information about the private key of the base firmware **without
   publishing it**.
-- Add info about SSH/TTY into the **stock** firmware, and the root access.
+- [ ] Add info about SSH/TTY into the **stock** firmware, and the root access.
 
 ## Formatting
 
