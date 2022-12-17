@@ -36,6 +36,8 @@ These two systems use a set of commands to communicate.
 - [ ] Add the information about the private key of the base firmware **without
   publishing it**.
 - [ ] Add info about SSH/TTY into the **stock** firmware, and the root access.
+- [ ] Add that, for the AetherX6100Control API to work properly, "you must
+  _first_ call x6100_control_set_band() and then change the frequency."
 
 ## Formatting
 
